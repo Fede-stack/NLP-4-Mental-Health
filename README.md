@@ -12,6 +12,18 @@ https://www.kaggle.com/datasets/thedevastator/c-ssrs-labeled-suicidality-in-500-
 https://github.com/mraihan-gmu/MentalHelp
 
 
+DAIS-C corpus
+https://www.sciencedirect.com/science/article/pii/S2666799123000291
+
+
+https://huggingface.co/datasets/CalebE/new_mental_health_conversations_all per uso conversazionale
+
+
+MENTALCHAT16K: A BENCHMARK DATASET FOR CONVERSATIONAL MENTAL HEALTH ASSISTANCE
+https://huggingface.co/datasets/ShenLab/MentalChat16K
+
+SMHD RSSD https://ir.cs.georgetown.edu/resources/
+
 ## Data under Signed Agreement
 
 eRisk
@@ -49,10 +61,6 @@ https://as3eem.medium.com/5-must-know-mental-health-counseling-datasets-for-ai-r
 https://github.com/primate-mh/Primate2022
 
 
-https://huggingface.co/datasets/CalebE/new_mental_health_conversations_all per uso conversazionale
 
-
-MENTALCHAT16K: A BENCHMARK DATASET FOR CONVERSATIONAL MENTAL HEALTH ASSISTANCE
-https://huggingface.co/datasets/ShenLab/MentalChat16K
 
 https://arxiv.org/pdf/2408.12142
