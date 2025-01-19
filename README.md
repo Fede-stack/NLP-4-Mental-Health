@@ -26,39 +26,51 @@ SMHD RSSD https://ir.cs.georgetown.edu/resources/
 
 ## Data under Signed Agreement
 
-eRisk
+> eRisk
 
 
 
-Pandora
+> Pandora
 
 
 
-CLPsych
+> CLPsych
 
 
-HOPE
+> HOPE
  Speaker and Time-aware Joint Contextual Learning for Dialogue-act Classification in Counselling Conversations
 
 
-MEMO Dataset
+> MEMO Dataset
 
-DAIC-WoZ Dataset
-
-
-ALONE Dataset
+> DAIC-WoZ Dataset
 
 
-Counsel-Chat Dataset
+> ALONE Dataset
 
 
-PAIR Dataset
+> Counsel-Chat Dataset
 
-https://www.nature.com/articles/s41597-022-01211-x non trovo il link funzionante
 
-https://as3eem.medium.com/5-must-know-mental-health-counseling-datasets-for-ai-research-dd1a1b9f30b4
+> PAIR Dataset
 
-https://github.com/primate-mh/Primate2022
+> https://www.nature.com/articles/s41597-022-01211-x non trovo il link funzionante
+
+> https://as3eem.medium.com/5-must-know-mental-health-counseling-datasets-for-ai-research-dd1a1b9f30b4
+
+> https://github.com/primate-mh/Primate2022
+
+### MetaHate: A Dataset for Unifying Efforts on Hate Speech Detection
+MetaHate is a unified collection of 1.2 million social media comments compiled from 36 different hate speech datasets across platforms like Twitter, Facebook, Reddit, and YouTube, with approximately 20% of the content labeled as hate speech. The dataset includes a diverse range of content types and annotation approaches, making it a comprehensive resource for studying and detecting online hate speech.
+agreement: https://irlab.org/metahate.html
+paper: [website]: https://stackoverflow.com
+
+> DepreSym: A Depression Symptom Annotated Corpus and the Role of LLMs as Assessors of Psychological Markers
+https://erisk.irlab.org/depresym_dataset.html
+
+> BDI-Sen: A Sentence Dataset for Clinical Symptoms of Depression
+https://erisk.irlab.org/BDISen.html
+
 
 
 
