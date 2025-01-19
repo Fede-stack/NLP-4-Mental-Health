@@ -42,11 +42,16 @@ Counsel-Chat Dataset
 
 PAIR Dataset
 
-
+https://www.nature.com/articles/s41597-022-01211-x non trovo il link funzionante
 
 https://as3eem.medium.com/5-must-know-mental-health-counseling-datasets-for-ai-research-dd1a1b9f30b4
 
 https://github.com/primate-mh/Primate2022
 
+
+https://huggingface.co/datasets/CalebE/new_mental_health_conversations_all per uso conversazionale
+
+
+MENTALCHAT16K: A BENCHMARK DATASET FOR CONVERSATIONAL MENTAL HEALTH ASSISTANCE
 
 https://arxiv.org/pdf/2408.12142
