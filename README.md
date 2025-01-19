@@ -62,17 +62,17 @@ SMHD RSSD https://ir.cs.georgetown.edu/resources/
 
 ### MetaHate: A Dataset for Unifying Efforts on Hate Speech Detection
 MetaHate is a unified collection of 1.2 million social media comments compiled from 36 different hate speech datasets across platforms like Twitter, Facebook, Reddit, and YouTube, with approximately 20% of the content labeled as hate speech. The dataset includes a diverse range of content types and annotation approaches, making it a comprehensive resource for studying and detecting online hate speech.
-agreement: https://irlab.org/metahate.html
-paper: [website]: https://stackoverflow.com
+
+[agreement]: https://irlab.org/metahate.html
+
+[paper]: : https://stackoverflow.com
 
 > DepreSym: A Depression Symptom Annotated Corpus and the Role of LLMs as Assessors of Psychological Markers
-https://erisk.irlab.org/depresym_dataset.html
+
+[agreement]: https://erisk.irlab.org/depresym_dataset.html
 
 > BDI-Sen: A Sentence Dataset for Clinical Symptoms of Depression
-https://erisk.irlab.org/BDISen.html
 
+[agreement]: https://erisk.irlab.org/BDISen.html
 
-
-
-
-https://arxiv.org/pdf/2408.12142
+[paper]: https://arxiv.org/pdf/2408.12142
