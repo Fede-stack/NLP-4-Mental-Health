@@ -53,5 +53,6 @@ https://huggingface.co/datasets/CalebE/new_mental_health_conversations_all per u
 
 
 MENTALCHAT16K: A BENCHMARK DATASET FOR CONVERSATIONAL MENTAL HEALTH ASSISTANCE
+https://huggingface.co/datasets/ShenLab/MentalChat16K
 
 https://arxiv.org/pdf/2408.12142
