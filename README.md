@@ -65,7 +65,7 @@ MetaHate is a unified collection of 1.2 million social media comments compiled f
 
 [agreement]: https://irlab.org/metahate.html
 
-[paper]: : https://stackoverflow.com
+[paper]: https://stackoverflow.com
 
 > DepreSym: A Depression Symptom Annotated Corpus and the Role of LLMs as Assessors of Psychological Markers
 
