@@ -64,7 +64,8 @@ SMHD RSSD https://ir.cs.georgetown.edu/resources/
 
 MetaHate is a unified collection of 1.2 million social media comments compiled from 36 different hate speech datasets across platforms like Twitter, Facebook, Reddit, and YouTube, with approximately 20% of the content labeled as hate speech. The dataset includes a diverse range of content types and annotation approaches, making it a comprehensive resource for studying and detecting online hate speech.
 
-https://stackoverflow.com  
+Resources
+[paper]: https://stackoverflow.com  
 [agreement]: https://irlab.org/metahate.html
 
 > DepreSym: A Depression Symptom Annotated Corpus and the Role of LLMs as Assessors of Psychological Markers
