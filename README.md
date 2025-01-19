@@ -61,7 +61,7 @@ SMHD RSSD https://ir.cs.georgetown.edu/resources/
 > https://github.com/primate-mh/Primate2022
 
 ### MetaHate: A Dataset for Unifying Efforts on Hate Speech Detection
-MetaHate is a unified collection of 1.2 million social media comments compiled from 36 different hate speech datasets across platforms like Twitter, Facebook, Reddit, and YouTube, with approximately 20% of the content labeled as hate speech. The dataset includes a diverse range of content types and annotation approaches, making it a comprehensive resource for studying and detecting online hate speech.
+MetaHate is a unified collection of 1.2 million social media comments compiled from 36 different hate speech datasets across platforms like Twitter, Facebook, Reddit, and YouTube, with approximately 20% of the content labeled as hate speech. The dataset includes a diverse range of content types and annotation approaches, making it a comprehensive resource for studying and detecting online hate speech.\\
 [agreement]: https://irlab.org/metahate.html
 [paper]: https://stackoverflow.com
 
