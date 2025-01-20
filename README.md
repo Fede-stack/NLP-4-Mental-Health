@@ -67,7 +67,7 @@ This dataset exemplifies how to train an AI model to provide empathetic and supp
 
 ### HelaDepDet Dataset (2023)
 
-The researchers created a dataset of over 40,000 annotated statements from various social networks to detect depression severity levels, making it the largest and most balanced dataset for depression severity classification at the time of publication. The statements were used to evaluate a novel confidence vector method for detecting depression severity, which achieved better performance than existing models.
+The researchers created a dataset of over 40,000 annotated statements from various social networks to detect depression severity levels. 
 
 - paper: https://link.springer.com/chapter/10.1007/978-3-031-42141-9_1
 - dataset: https://github.com/KUAS-ubicomp-lab/Depression_Severity_Levels_Dataset
