@@ -130,7 +130,7 @@ The HOPE dataset consists of 12,900 utterances from 212 mental health counseling
 - agreement: https://github.com/LCS2-IIITD/SPARTA_WSDM2022/tree/main#hope-dataset-access-request
 
 
-### MEMO Dataset
+### MEMO Dataset (2022)
 
 The researchers created the MEMO (Mental Health Summarization) dataset by extending the publicly available HOPE dataset, which contains 12,900 utterances from 212 counseling conversations between therapists and patients. The dataset includes annotated counseling components (symptom/history, patient discovery, reflecting, and discussion filler) for each utterance, along with reference summaries for each dialogue, with the goal of developing better mental health counseling summarization systems.
 
@@ -164,21 +164,22 @@ This paper introduces PRIMATE (PRocess knowledge Integrated Mental heAlth daTasE
 - paper: https://arxiv.org/pdf/2205.13884
 - agreement: https://github.com/primate-mh/Primate2022
 
-### MetaHate Dataset
+### MetaHate Dataset (2024)
 
 MetaHate is a unified collection of 1.2 million social media comments compiled from 36 different hate speech datasets across platforms like Twitter, Facebook, Reddit, and YouTube, with approximately 20% of the content labeled as hate speech. The dataset includes a diverse range of content types and annotation approaches, making it a comprehensive resource for studying and detecting online hate speech.
 
-- paper: https://stackoverflow.com  
+- paper: https://arxiv.org/pdf/2401.06526  
 - agreement: https://irlab.org/metahate.html
+- huggingface: https://huggingface.co/datasets/irlab-udc/metahate
 
-### DepreSym Dataset
+### DepreSym Dataset (2023)
 
 DepreSym is a comprehensive dataset of 21,580 sentences from Reddit labeled according to their relevance to 21 depression symptoms specified in the Beck Depression Inventory-II (BDI-II), a standardized clinical questionnaire. The dataset was created by having three expert assessors (including a psychologist) annotate candidate sentences that were selected through a pooling approach from 37 different ranking methods submitted by research teams.
 
 - paper: https://arxiv.org/pdf/2308.10758
 - agreement: https://erisk.irlab.org/depresym_dataset.html
 
-### BDI-Sen Dataset
+### BDI-Sen Dataset (2023)
 
 BDI-Sen is a dataset of 4,973 annotated sentences from Reddit covering all 21 depression symptoms specified in the Beck Depression Inventory-II (BDI-II), along with 41,200 control sentences. The sentences were manually labeled by three expert annotators (including a psychologist) to indicate whether they provide information about specific depression symptoms. Additionally, each sentence has a severity level (0-3) derived from the original users' responses to the BDI-II questionnaire. 
 
