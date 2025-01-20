@@ -157,7 +157,7 @@ The dataset is a multi-modal collection focused on mental disorder analysis, spe
 
 - paper: https://www.nature.com/articles/s41597-022-01211-x 
 
-### PRIMATE DAtaset (2022)
+### PRIMATE Dataset (2022)
 
 This paper introduces PRIMATE (PRocess knowledge Integrated Mental heAlth daTasEt), a dataset designed to help train conversational AI systems to generate appropriate follow-up questions when triaging depression cases. The researchers created PRIMATE by annotating Reddit posts against the PHQ-9 (Patient Health Questionnaire-9) depression screening tool, with expert annotators marking whether each PHQ-9 question was already answered in the post content. 
 
