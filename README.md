@@ -83,7 +83,7 @@ The workshop is organized annually as part of CLEF (Conference and Labs of the E
 - website: https://erisk.irlab.org
 
 
-### MBTIK9k (2018) & PANDORA (2021) datasets
+### MBTIK9k (2018) & PANDORA (2021) Datasets
 
 MBTIK9k is a dataset created by leveraging Reddit flairs - short descriptive tags that users employ to identify themselves in subreddits. In MBTI-related subreddits, users commonly include their MBTI personality type in their flairs, which the authors utilized to extract personality labels for the dataset.
 
