@@ -50,14 +50,6 @@ A datasets of users experiencing suicide-related ideations, suicide-related beha
 
 - dataset: https://zenodo.org/records/4543776#.Y7FJJ9JBwUE
 
-### MentalHelp Dataset (2024)
-
-The researchers created MentalHelp, a large-scale semi-supervised mental health dataset containing 14 million posts collected from Reddit. The dataset was labeled using an ensemble of three models (flan-T5, Disor-BERT, and Mental-BERT) and includes confidence scores from multiple models to enable filtering subsets with high-quality labels.
-
-- paper: https://aclanthology.org/2024.lrec-main.977.pdf
-- dataset: https://github.com/mraihan-gmu/MentalHelp
-
-
  ### Mental Health Conversations Dataset
  
 This dataset exemplifies how to train an AI model to provide empathetic and supportive responses to users seeking help or expressing emotional distress. The data structure shows various ways to respond to requests for help and expressions of sadness, with outputs that consistently demonstrate empathy, offer support, and encourage users to share more about their situation through follow-up questions, making it particularly valuable for developing mental health support chatbots.
@@ -221,6 +213,14 @@ This dataset consists of social media data including texts and images posted by 
 
 - paper: https://link.springer.com/chapter/10.1007/978-3-031-04431-1_13
 - Contact the author to get access
+
+### MentalHelp Dataset (2024)
+
+The researchers created MentalHelp, a large-scale semi-supervised mental health dataset containing 14 million posts collected from Reddit. The dataset was labeled using an ensemble of three models (flan-T5, Disor-BERT, and Mental-BERT) and includes confidence scores from multiple models to enable filtering subsets with high-quality labels.
+
+- paper: https://aclanthology.org/2024.lrec-main.977.pdf
+- Contact the author to get access
+- dataset IDs: https://github.com/mraihan-gmu/MentalHelp
 
 
 
