@@ -78,6 +78,12 @@ SuicidEmoji is the first suicide-related emoji dataset, containing 25,051 emoji 
 - paper: https://dl.acm.org/doi/pdf/10.1145/3626772.3657852
 - dataset: https://github.com/TianlinZhang668/SuicidEmoji/blob/main/Dataset/emoji_classification/original/train.txt
 
+### Depression Risk Reddit Dataset (2022)
+
+This dataset contains 3,553 Reddit posts that were relabeled from a binary classification into 4 depression severity levels (minimal, mild, moderate, and severe).
+
+- paper: https://dl.acm.org/doi/pdf/10.1145/3485447.3512128
+- dataset: https://github.com/usmaann/Depression_Severity_Dataset
 
 ## Datasets (hopefully!) available upon request 🔜
 
