@@ -4,7 +4,7 @@ The use of datasets in the Mental Health (**MH**) 🏩 field is often challengin
 
 The purpose of this repository is to create a collection of resources that can help navigate the various sources that provide, both publicly and privately, datasets usable for research in Mental Health.
 
-We divide the contents based on publicly available content (aka available in the **WWWW** - Wild World Wide Web) and datasets available upon request (by signing a data agreement or contacting the authors).
+We divide the contents based on publicly available content (aka available in the **WWWW** - **Wild** World Wide Web) and datasets available upon request (by signing a data agreement or contacting the authors).
 
 ## Datasets available in the wild 🏞
 
