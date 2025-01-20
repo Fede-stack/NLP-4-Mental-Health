@@ -1,6 +1,6 @@
 # NLP 4 Mental Health Datasets 🗂
 
-The use of datasets in the Mental Health (**MH**) 🏩 field is often challenging as most of them are unavailable due to the private nature of the data. This can be a significant obstacle for early-stage researchers studying the linguistic characteristics of different behavioral disorders.
+The use of datasets in the Mental Health (**MH**) 🏩 field is often challenging as most of them are unavailable due to the private nature of the data. This can be a significant obstacle for *early-stage* researchers studying the linguistic characteristics of different behavioral disorders.
 
 The purpose of this repository is to create a collection of resources that can help navigate the various sources that provide, both publicly and privately, datasets usable for research in Mental Health.
 
