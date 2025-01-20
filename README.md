@@ -72,6 +72,20 @@ The researchers created a dataset of over 40,000 annotated statements from vario
 - paper: https://link.springer.com/chapter/10.1007/978-3-031-42141-9_1
 - dataset: https://github.com/KUAS-ubicomp-lab/Depression_Severity_Levels_Dataset
 
+### Music & Mental Disorders Dataset (2023)
+
+This research study collected a large-scale dataset of Twitter users with six self-reported psychological disorders (depression, bipolar, anxiety, panic, PTSD, and borderline) matched with control users, analyzing both their tweets and shared music lyrics between 2018-2021. The final dataset included 1,519 users with disorders and 2,480 control users, containing over 2.6 million tweets and 59,468 music tracks with their associated lyrics.
+
+- paper: https://www.sciencedirect.com/science/article/pii/S0306457323000067
+- dataset: https://github.com/szamani20/Twitter-Mental-Disorder-Dataset
+
+### SuicidEmoji Dataset (2024)
+
+SuicidEmoji is the first suicide-related emoji dataset, containing 25,051 emoji posts (2,329 suicide-related posts and 22,722 control group posts) filtered from 1.3 million Reddit posts.
+
+- paper: https://dl.acm.org/doi/pdf/10.1145/3626772.3657852
+- dataset: https://github.com/TianlinZhang668/SuicidEmoji/blob/main/Dataset/emoji_classification/original/train.txt
+
 
 ## Datasets (hopefully!) available upon request 🔜
 
@@ -150,7 +164,7 @@ The DAIC-WOZ dataset contains both voice recordings and textual transcripts coll
 The ALONE (AdoLescents ON twittEr) dataset contains toxic social media interactions between confirmed high school students, with 16,901 tweets across 688 interactions. Each interaction includes tweets, images, emojis and related metadata from conversations between students. The dataset is annotated with three labels (Toxic, Non-Toxic, and Unclear), with 17.15% labeled as Toxic, 79.51% as Non-Toxic, and 3.34% as Unclear. 
 
 - paper: https://arxiv.org/pdf/2008.06465
-
+  
 ### Multi-modal dataset for mental disorders (2022)
 
 The dataset is a multi-modal collection focused on mental disorder analysis, specifically comparing clinically depressed patients and normal controls. It includes EEG data collected from both a traditional 128-electrode cap (53 participants) and a wearable 3-electrode collector (55 participants) during resting states and dot probe tasks, as well as audio recordings from 52 participants during interviews, reading, and picture description tasks. All participants were carefully diagnosed and selected by professional psychiatrists in hospitals.
@@ -199,3 +213,16 @@ A dataset for studying depression in social media that uses a weak-supervision f
 The MDD-5k dataset is the largest Chinese mental disorders diagnosis dataset, containing 5,000 high-quality diagnostic conversations synthesized from 1,000 real, anonymized patient cases from Shanghai Mental Health Center. The dataset covers over 25 different mental disorders and includes comprehensive diagnostic conversations with an average of 26.8 turns per dialogue, along with diagnosis results and treatment opinions as labels.
 
 - paper: https://arxiv.org/pdf/2408.12142
+
+
+### multiRedditDep dataset (2022)
+
+This dataset consists of social media data including texts and images posted by depressed users, and present our attempts at automatically discovering signs of depression in a multimodal setting. 
+
+- paper: https://link.springer.com/chapter/10.1007/978-3-031-04431-1_13
+- Contact the author to get access
+
+
+
+
+
