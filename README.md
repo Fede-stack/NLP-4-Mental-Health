@@ -6,7 +6,7 @@ The purpose of this repository is to create a collection of resources that can h
 
 We divide the contents based on publicly available content (aka available in the **WWWW** - Wild World Wide Web) and datasets available upon request (by signing a data agreement or contacting the authors).
 
-## Mental Health datasets available in the wild
+## Datasets available in the wild 🏞
 
 ### DAIS-C corpus (2023)
 
@@ -73,7 +73,7 @@ The researchers created a dataset of over 40,000 annotated statements from vario
 - dataset: https://github.com/KUAS-ubicomp-lab/Depression_Severity_Levels_Dataset
 
 
-## Datasets Available Upon Request
+## Datasets (hopefully!) available upon request 🔜
 
 ### eRisk (2017-)
 
