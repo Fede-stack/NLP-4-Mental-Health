@@ -194,7 +194,7 @@ A dataset for studying depression in social media that uses a weak-supervision f
 - Contact the author to get access
 
 
-### MDD-5k (2024)
+### MDD-5k Dataset (2024)
 
 The MDD-5k dataset is the largest Chinese mental disorders diagnosis dataset, containing 5,000 high-quality diagnostic conversations synthesized from 1,000 real, anonymized patient cases from Shanghai Mental Health Center. The dataset covers over 25 different mental disorders and includes comprehensive diagnostic conversations with an average of 26.8 turns per dialogue, along with diagnosis results and treatment opinions as labels.
 
