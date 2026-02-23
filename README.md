@@ -85,6 +85,13 @@ This dataset contains 3,553 Reddit posts that were relabeled from a binary class
 - paper: https://dl.acm.org/doi/pdf/10.1145/3485447.3512128
 - dataset: https://github.com/usmaann/Depression_Severity_Dataset
 
+### Interpersonal Risk Factors in Reddit Posts (2023)
+
+Authors constructed and released a new annotated dataset that includes human-labelled explanations and classification of IRF affecting mental disturbance on social media, specifically Thwarted Belongingness (TBe) and Perceived Burdensomeness (PBu).
+
+- paper: [https://dl.acm.org/doi/pdf/10.1145/3485447.3512128](https://aclanthology.org/2023.findings-acl.757.pdf)
+- dataset: [https://github.com/usmaann/Depression_Severity_Dataset](https://github.com/drmuskangarg/Irf)
+
 ## Datasets (hopefully!) available upon request 🔜
 
 ### eRisk (2017-)
